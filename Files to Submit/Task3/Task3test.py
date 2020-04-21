@@ -89,7 +89,7 @@ class testTask2():
 			
 			score = 0
 			for _ in range(GOAL_STEPS):
-				#env.render()
+				#self.env.render()
 				
 				state = state.reshape(-1, len(state))
 				action = self.next_action(state, self.OUTPUT_SIZE)

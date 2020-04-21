@@ -1,5 +1,7 @@
 Instructions on how to train and test the three models. The resultant models after training however, are already present in the directories.
 
+NOTE: env.render() has been commented out in all 3 test files to make testing easer. It can be uncommented in case one wishes to render the tests.
+
 TASK1
 
 Training the model:
