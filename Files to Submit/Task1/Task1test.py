@@ -65,7 +65,7 @@ class testTask1():
 		return np.argmax(self.model.predict(state)) #Exploitation: Action with best possible reward
 
 	
-	def train(self):
+	def test(self):
 		self.LR = 1e-3
 		self.input_size = self.env.observation_space.shape[0]
 		self.OUTPUT_SIZE = self.env.action_space.n
@@ -109,7 +109,7 @@ class testTask1():
 
 if __name__ == "__main__":
 	tester=testTask1()
-	tester.train()
+	tester.test()
 
 
 

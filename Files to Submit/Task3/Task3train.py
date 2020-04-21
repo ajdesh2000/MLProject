@@ -167,7 +167,7 @@ class trainTask2():
 
 		self.plot_res(scores)
 
-		self.model.save('model2.h5')
+		self.model.save('model3.h5')
 
 if __name__ == "__main__":
 	trainer=trainTask2()
