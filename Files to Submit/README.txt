@@ -12,7 +12,7 @@ Testing the model:
 1. Enter the Task1 directory
 2. Activate the environment to be used
 3. Run 'python Task1test.py <TEST_EPISODES>' on the command line. Here <TEST_EPISODES> is a command-line argument. In case no argument is provided, the default test episodes is assumed to be 100.
-4. This loads model1.h5 and runs in on TEST_EPISODES number of episodes. Hence model1.h5 is a requirement to test the model.
+4. This loads model1.h5 and runs it on TEST_EPISODES number of episodes. Hence model1.h5 is a requirement to test the model.
 
 
 
@@ -28,7 +28,7 @@ Testing the model:
 1. Enter the Task2 directory
 2. Activate the environment to be used
 3. Run 'python Task2test.py <TEST_EPISODES>' on the command line. Here <TEST_EPISODES> is a command-line argument. In case no argument is provided, the default test episodes is assumed to be 100.
-4. This loads model2.h5 and runs in on TEST_EPISODES number of episodes. Hence model2.h5 is a requirement to test the model.
+4. This loads model2.h5 and runs it on TEST_EPISODES number of episodes. Hence model2.h5 is a requirement to test the model.
 
 
 
@@ -44,4 +44,4 @@ Testing the model:
 1. Enter the Task3 directory
 2. Activate the environment to be used
 3. Run 'python Task3test.py <TEST_EPISODES>' on the command line. Here <TEST_EPISODES> is a command-line argument. In case no argument is provided, the default test episodes is assumed to be 100.
-4. This loads model3.h5 and runs in on TEST_EPISODES number of episodes. Hence model3.h5 is a requirement to test the model.
+4. This loads model3.h5 and runs it on TEST_EPISODES number of episodes. Hence model3.h5 is a requirement to test the model.
